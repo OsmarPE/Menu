@@ -1,5 +1,3 @@
-import IconPlus from '@/assets/IconPlus'
-import ModalContainer from '@/components/admin/product/ModalContainer'
 import Search from '@/components/admin/product/Search'
 import Table from '@/components/admin/product/Table'
 import TableRow from '@/components/admin/product/TableRow'
